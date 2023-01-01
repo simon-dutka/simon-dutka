@@ -4,7 +4,7 @@
 
 -   🌱 I’m currently learning **TypeScript**
 
--   🔭 I’m currently working on **finance management website**
+-   🔭 I’m currently working on **my personal portfolio**
 
 ### Technology stack
 
